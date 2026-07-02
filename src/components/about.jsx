@@ -13,12 +13,12 @@ const About = () => {
             alt=""
             className="w-72 h-80 rounded object-cover mb-8 md:mb-0"
           />
-          <div className="flex-1">
+          <div className="fle
             <p className="text-lg mb-8">
-              I am a passionate full-stack developer with a focus on building
-              modern and responsive web applications. With a strong foundation
-              in both frontend and backend technologies, I strive to create
-              seamless and efficient user experiences.
+             I am a Leading modernization of a legacy banking platform into a cloud-native distributed microservices ecosystem using Java
+              17, Spring Boot, AWS, and Kubernetes supporting over 2M+ daily financial transactions. Designed scalable
+              containerized services deployed on Amazon EKS with Kafka-driven event processing, Redis caching, secure API
+              gateways, and enterprise observability solutions.
             </p>
             <div className="space-y-4">
               <SkillBar skillName="HTML & CSS" proficiency="90.00" />
